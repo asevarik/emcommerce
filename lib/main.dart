@@ -1,97 +1,84 @@
+import 'package:ECommerceApp/Common_utils/Consts/theme_data.dart';
+import 'package:ECommerceApp/Common_utils/provider/Dark_Theme_provider.dart';
+import 'package:ECommerceApp/Common_utils/provider/Products.dart';
+import 'package:ECommerceApp/screens/Wishlist.dart';
+import 'package:ECommerceApp/screens/auth/Signup.dart';
+import 'package:ECommerceApp/screens/bottom_bar.dart';
+import 'package:ECommerceApp/screens/cart.dart';
+import 'package:ECommerceApp/screens/feed.dart';
+import 'package:ECommerceApp/screens/inner_screens/Categories_FeedScreen.dart';
+import 'package:ECommerceApp/screens/inner_screens/brands_navigation_rail%20copy.dart';
+import 'package:ECommerceApp/screens/landing_page.dart';
+import 'package:ECommerceApp/screens/auth/login.dart';
+import 'package:ECommerceApp/screens/product_details.dart';
+import 'package:ECommerceApp/screens/search.dart';
+import 'package:ECommerceApp/screens/themeSelectionscreen.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+import 'package:stacked_themes/stacked_themes.dart';
+import 'package:get/get.dart';
 
-void main() {
+import 'Common_utils/provider/FavProvider.dart';
+import 'Common_utils/provider/cart_provider.dart';
+
+Future main() async {
+  await ThemeManager.initialise();
   runApp(MyApp());
 }
 
-class MyApp extends StatelessWidget {
+class MyApp extends StatefulWidget {
   // This widget is the root of your application.
   @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Shop Course By Hadi Kachmar',
-      theme: ThemeData(
-        // This is the theme of your application.
-        //
-        // Try running your application with "flutter run". You'll see the
-        // application has a blue toolbar. Then, without quitting the app, try
-        // changing the primarySwatch below to Colors.green and then invoke
-        // "hot reload" (press "r" in the console where you ran "flutter run",
-        // or simply save your changes to "hot reload" in a Flutter IDE).
-        // Notice that the counter didn't reset back to zero; the application
-        // is not restarted.
-        primarySwatch: Colors.blue,
-      ),
-      home: MyHomePage(title: 'Shop Course '),
-    );
-  }
+  _MyAppState createState() => _MyAppState();
 }
 
-class MyHomePage extends StatefulWidget {
-  MyHomePage({Key key, this.title}) : super(key: key);
-
-  final String title;
-
+class _MyAppState extends State<MyApp> {
   @override
-  _MyHomePageState createState() => _MyHomePageState();
-}
-
-class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0;
-
-  void _incrementCounter() {
-    setState(() {
-      _counter++;
-    });
+  void initState() {
+    super.initState();
   }
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text(widget.title),
-      ),
-      body: Padding(
-        padding: const EdgeInsets.all(18.0),
-        child: Center(
-            child: Container(
-          child: Center(
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              // crossAxisAlignment: CrossAxisAlignment.center,
-              children: [
-                Text(
-                  'Welcome! \nShop Course By Hadi Kachmar Home Page',
-                  textAlign: TextAlign.center,
-                  style: TextStyle(
-                      fontSize: 25,
-                      color: Colors.black,
-                      fontStyle: FontStyle.italic,
-                      fontWeight: FontWeight.bold),
-                ),
-                SizedBox(
-                  height: 40,
-                ),
-                Text(
-                  'Please read the requirments first in order to follow',
-                  textAlign: TextAlign.center,
-                  style: TextStyle(
-                      decoration: TextDecoration.underline,
-                      fontSize: 25,
-                      color: Colors.red,
-                      fontStyle: FontStyle.italic,
-                      fontWeight: FontWeight.bold),
-                ),
-              ],
-            ),
-          ),
-        )),
-      ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
-        tooltip: 'Increment',
-        child: Icon(Icons.face),
-      ), // This trailing comma makes auto-formatting nicer for build methods.
-    );
+    final themeController = Get.put(ThemeController());
+    return MultiProvider(
+        providers: [
+          //!Providers goes here
+          ChangeNotifierProvider(create: (_) => ProductProvider()),
+          ChangeNotifierProvider(create: (_) => CartProvider()),
+          ChangeNotifierProvider(create: (_) => FavProvider()),
+        ],
+        builder: (context, snapshot) {
+          return ThemeBuilder(
+              themes: Styles.colorThemes(),
+              builder: (context, regularTheme, darkTheme, themeMode) {
+                return MaterialApp(
+                  theme: regularTheme,
+                  darkTheme: darkTheme,
+                  themeMode: themeMode,
+                  title: 'HopClues',
+                  initialRoute: LandingPage.routeName,
+                  routes: {
+                    SignUpPage.routeName:(context)=>SignUpPage(),
+                    LoginPage.routeName: (context) => LoginPage(),
+                    LandingPage.routeName: (context) => LandingPage(),
+                    BottomBarScreen.screenname: (context) => BottomBarScreen(),
+                    BrandNavigationRailScreen.routeName: (context) =>
+                        BrandNavigationRailScreen(),
+                    FeedPage.Routename: (context) => FeedPage(),
+                    CartPage.RouteName: (context) => CartPage(),
+                    WishListPage.RouteName: (context) => WishListPage(),
+                    ThemeSelectorScreen.screename: (context) =>
+                        ThemeSelectorScreen(),
+                    CategoryFeedPage.routeName: (context) => CategoryFeedPage(),
+                    Product_Details.routeName: (context) => Product_Details(),
+                    Search.routeName: (context) => Search(),
+                    BottomBarScreen.screenname:(context)=>BottomBarScreen(),
+                    
+                  },
+                  home: LandingPage(),
+                );
+              });
+        });
   }
 }
