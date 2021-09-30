@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_storage/intermediates/res/merged/release/drawable-xxhdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/70730c61d5f4bf896ab7d82905ca5572/play-services-base-17.1.0/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_storage/intermediates/res/merged/release/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/70730c61d5f4bf896ab7d82905ca5572/play-services-base-17.1.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_storage/intermediates/res/merged/release/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/70730c61d5f4bf896ab7d82905ca5572/play-services-base-17.1.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_storage/intermediates/res/merged/release/drawable-xxhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/70730c61d5f4bf896ab7d82905ca5572/play-services-base-17.1.0/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_storage/intermediates/res/merged/release/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/70730c61d5f4bf896ab7d82905ca5572/play-services-base-17.1.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_storage/intermediates/res/merged/release/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/70730c61d5f4bf896ab7d82905ca5572/play-services-base-17.1.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    }
+]

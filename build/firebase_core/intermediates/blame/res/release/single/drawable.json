@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_core/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1ca25845242cddb0e63221c2ad094241/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_core/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1ca25845242cddb0e63221c2ad094241/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_core/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1ca25845242cddb0e63221c2ad094241/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_core/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1ca25845242cddb0e63221c2ad094241/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    }
+]

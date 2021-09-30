@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/flutter_plugin_android_lifecycle/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rIN/values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1ca25845242cddb0e63221c2ad094241/core-1.1.0/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/values-en-rIN/values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1ca25845242cddb0e63221c2ad094241/core-1.1.0/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
