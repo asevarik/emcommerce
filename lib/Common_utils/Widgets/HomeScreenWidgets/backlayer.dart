@@ -1,6 +1,8 @@
 import 'package:ECommerceApp/Common_utils/Consts/colors.dart';
-import 'package:ECommerceApp/screens/cart.dart';
+import 'package:ECommerceApp/Models/user.dart';
+import 'package:ECommerceApp/screens/cart/cart.dart';
 import 'package:ECommerceApp/screens/feed.dart';
+import 'package:ECommerceApp/screens/upload_product_form.dart';
 import 'package:flutter/material.dart';
 
 class BackLayerMenu extends StatelessWidget {
@@ -104,8 +106,7 @@ class BackLayerMenu extends StatelessWidget {
                       decoration: BoxDecoration(
                           borderRadius: BorderRadius.circular(20.0),
                           image: DecorationImage(
-                            image: NetworkImage(
-                                'https://cdn1.vectorstock.com/i/thumb-large/62/60/default-avatar-photo-placeholder-profile-image-vector-21666260.jpg'),
+                            image: NetworkImage(UserData.photourl),
                             fit: BoxFit.fill,
                           )),
                     ),
@@ -125,7 +126,7 @@ class BackLayerMenu extends StatelessWidget {
                 }, 'Wishlist', 2),
                 const SizedBox(height: 10.0),
                 content(context, () {
-                  navigateTo(context, FeedPage.Routename);
+                  Navigator.pushNamed(context, UploadProductForm.routeName);
                 }, 'Upload a new product', 3),
               ],
             ),

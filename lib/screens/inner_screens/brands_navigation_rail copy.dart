@@ -1,5 +1,6 @@
 import 'package:ECommerceApp/Common_utils/provider/Products.dart';
 import 'package:ECommerceApp/Models/feed.dart';
+import 'package:ECommerceApp/Models/user.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -139,8 +140,7 @@ class _BrandNavigationRailScreenState extends State<BrandNavigationRailScreen> {
                           Center(
                             child: CircleAvatar(
                               radius: 16,
-                              backgroundImage: NetworkImage(
-                                  "https://cdn1.vectorstock.com/i/thumb-large/62/60/default-avatar-photo-placeholder-profile-image-vector-21666260.jpg"),
+                              backgroundImage: NetworkImage(UserData.photourl),
                             ),
                           ),
                           SizedBox(
@@ -219,12 +219,29 @@ class ContentSpace extends StatelessWidget {
         child: MediaQuery.removePadding(
           removeTop: true,
           context: context,
-          child: ListView.builder(
-            itemCount: productsBrand.length,
-            itemBuilder: (BuildContext context, int index) =>
-                ChangeNotifierProvider.value(
-                    value: productsBrand[index], child: BrandsNavigationRail()),
-          ),
+          child: productsBrand.isEmpty
+              ? Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Icon(
+                      Icons.emoji_people_outlined,
+                      size: 120,
+                    ),
+                    Text(
+                      "no Products right now but we're expanding our business",
+                      textAlign: TextAlign.center,
+                      style:
+                          TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
+                    )
+                  ],
+                )
+              : ListView.builder(
+                  itemCount: productsBrand.length,
+                  itemBuilder: (BuildContext context, int index) =>
+                      ChangeNotifierProvider.value(
+                          value: productsBrand[index],
+                          child: BrandsNavigationRail()),
+                ),
         ),
       ),
     );

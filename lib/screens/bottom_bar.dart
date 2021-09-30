@@ -1,7 +1,8 @@
 import 'package:ECommerceApp/Common_utils/Consts/Size_config.dart';
 import 'package:ECommerceApp/Common_utils/Consts/colors.dart';
 import 'package:ECommerceApp/Common_utils/provider/Dark_Theme_provider.dart';
-import 'package:ECommerceApp/screens/cart.dart';
+import 'package:ECommerceApp/Models/user.dart';
+import 'package:ECommerceApp/screens/cart/cart.dart';
 import 'package:ECommerceApp/screens/feed.dart';
 import 'package:ECommerceApp/screens/home.dart';
 import 'package:ECommerceApp/screens/search.dart';
@@ -11,7 +12,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 class BottomBarScreen extends StatefulWidget {
-  static final String screenname = "BottombarScreen";
+  static final String routeName = "BottombarScreen";
   @override
   _BottomBarScreenState createState() => _BottomBarScreenState();
 }
@@ -46,6 +47,11 @@ class _BottomBarScreenState extends State<BottomBarScreen> {
       },
     ];
     selected_index = 0;
+    WidgetsBinding.instance.addPostFrameCallback(
+        (_) => Future.delayed(Duration(milliseconds: 40)).then((value) {
+              print("bottomBar inside");
+              // return setState(() {});
+            }));
   }
 
   void _selected_Page(int index) {

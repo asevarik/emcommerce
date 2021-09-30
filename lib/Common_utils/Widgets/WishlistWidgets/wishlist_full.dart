@@ -98,7 +98,7 @@ class WishlistTile extends StatelessWidget {
                 dynamictheme.dynamiccolorObj().gradientLEnd,
               ]),
             ),
-            child: Image.asset(productImageurl)),
+            child: Image.network(productImageurl)),
         title: Text(productname),
         subtitle: Text("\$${price}"),
       ),

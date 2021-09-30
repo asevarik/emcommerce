@@ -1,10 +1,18 @@
+import 'dart:io';
+
 import 'package:ECommerceApp/Common_utils/Consts/Size_config.dart';
 import 'package:ECommerceApp/Common_utils/Consts/colors.dart';
+import 'package:ECommerceApp/Common_utils/Widgets/GlobalWidgets/alertDialog.dart';
 import 'package:ECommerceApp/Common_utils/provider/Dark_Theme_provider.dart';
-import 'package:ECommerceApp/screens/Wishlist.dart';
-import 'package:ECommerceApp/screens/cart.dart';
+import 'package:ECommerceApp/Models/user.dart';
+import 'package:ECommerceApp/Services/AuthController.dart';
+import 'package:ECommerceApp/screens/orders/order.dart';
+import 'package:ECommerceApp/screens/wishlist/Wishlist.dart';
+import 'package:ECommerceApp/screens/auth/Signup.dart';
+import 'package:ECommerceApp/screens/cart/cart.dart';
 import 'package:ECommerceApp/screens/themeSelectionscreen.dart';
 import 'package:flutter/material.dart';
+import 'package:image_picker/image_picker.dart';
 import 'package:list_tile_switch/list_tile_switch.dart';
 import 'package:stacked_themes/stacked_themes.dart';
 import 'package:toast/toast.dart';
@@ -18,25 +26,40 @@ class UserInfo extends StatefulWidget {
 class _UserInfoState extends State<UserInfo> {
   bool isDark = false;
   ScrollController _scrollController;
+  final AuthController _auth = AuthController();
+  AlertDialogCustom _alertbox = AlertDialogCustom();
+  String defaultImage =
+      'https://www.pngitem.com/pimgs/m/35-350426_profile-icon-png-default-profile-picture-png-transparent.png';
+  File _pickImage;
+
+  void _pickImageCamera() async {
+    final picker = ImagePicker();
+    final pickedImage = await picker.pickImage(source: ImageSource.camera);
+    final pickedImageFile = File(pickedImage.path);
+    setState(() {
+      _pickImage = pickedImageFile;
+    });
+    Navigator.pop(context);
+  }
+
+  void _pickImageGallery() async {
+    final picker = ImagePicker();
+    final pickedImage = await picker.pickImage(source: ImageSource.gallery);
+    final pickedImageFile = File(pickedImage.path);
+    setState(() {
+      _pickImage = pickedImageFile;
+    });
+    Navigator.pop(context);
+  }
+
+  void _remove() {
+    setState(() {
+      _pickImage = null;
+    });
+    Navigator.pop(context);
+  }
+
   var top = 0.0;
-  List usertiledetails = [
-    {
-      'title': 'Email',
-      'subtitle': 'Emailsub',
-      'icon': Icons.email,
-    },
-    {
-      'title': 'Phone',
-      'subtitle': '1234567890',
-      'icon': Icons.phone,
-    },
-    {
-      'title': 'Shipping Address',
-      'subtitle': '101 badshash',
-      'icon': Icons.delivery_dining,
-    },
-    {'title': 'joned date', 'subtitle': 'date', 'icon': Icons.calendar_today},
-  ];
   @override
   void initState() {
     // TODO: implement initState
@@ -94,21 +117,24 @@ class _UserInfoState extends State<UserInfo> {
                                   height: kToolbarHeight / 1.8,
                                   width: kToolbarHeight / 1.8,
                                   decoration: BoxDecoration(
-                                      boxShadow: [
-                                        BoxShadow(
-                                          color: Colors.white,
-                                          blurRadius: 1.0,
-                                        )
-                                      ],
-                                      shape: BoxShape.circle,
-                                      image: DecorationImage(
-                                          fit: BoxFit.fill,
-                                          image: NetworkImage(
-                                              'https://www.pngitem.com/pimgs/m/35-350426_profile-icon-png-default-profile-picture-png-transparent.png'))),
+                                    boxShadow: [
+                                      BoxShadow(
+                                        color: Colors.white,
+                                        blurRadius: 1.0,
+                                      )
+                                    ],
+                                    shape: BoxShape.circle,
+                                    image: DecorationImage(
+                                      fit: BoxFit.fill,
+                                      image: NetworkImage(
+                                        UserData.photourl ?? defaultImage,
+                                      ),
+                                    ),
+                                  ),
                                 ),
                                 SizedBox(width: SizeConfig.screenWidth / 21),
                                 Text(
-                                  'Guest',
+                                  UserData.name,
                                   style: TextStyle(
                                       fontSize: SizeConfig.screenWidth / 20,
                                       color: Colors.white),
@@ -119,8 +145,7 @@ class _UserInfoState extends State<UserInfo> {
                         ],
                       ),
                       background: Image(
-                        image: NetworkImage(
-                            'https://www.pngitem.com/pimgs/m/35-350426_profile-icon-png-default-profile-picture-png-transparent.png'),
+                        image: NetworkImage(UserData.photourl ?? defaultImage),
                         fit: BoxFit.cover,
                       ),
                     ),
@@ -168,6 +193,19 @@ class _UserInfoState extends State<UserInfo> {
                         Navigator.of(context).pushNamed(CartPage.RouteName);
                       },
                     ),
+                    ListTile(
+                      title: Text(
+                        "My Orders",
+                        style: Theme.of(context).textTheme.headline3,
+                      ),
+                      leading: Icon(Icons.shopping_bag,
+                          color: Theme.of(context).iconTheme.color),
+                      trailing: Icon(Icons.chevron_right_rounded,
+                          color: Theme.of(context).iconTheme.color),
+                      onTap: () {
+                        Navigator.of(context).pushNamed(OrderPage.RouteName);
+                      },
+                    ),
                     Padding(
                       padding:
                           EdgeInsets.only(left: SizeConfig.screenWidth / 50),
@@ -178,25 +216,13 @@ class _UserInfoState extends State<UserInfo> {
                       color: Colors.grey,
                     ),
                     userlistTile(
-                        usertiledetails[0]['title'],
-                        usertiledetails[0]['subtitle'],
-                        usertiledetails[0]['icon'],
-                        () {}),
+                        'Email', UserData.email ?? '', Icons.email, () {}),
                     userlistTile(
-                        usertiledetails[1]['title'],
-                        usertiledetails[1]['subtitle'],
-                        usertiledetails[1]['icon'],
-                        () {}),
-                    userlistTile(
-                        usertiledetails[2]['title'],
-                        usertiledetails[2]['subtitle'],
-                        usertiledetails[2]['icon'],
-                        () {}),
-                    userlistTile(
-                        usertiledetails[3]['title'],
-                        usertiledetails[3]['subtitle'],
-                        usertiledetails[3]['icon'],
-                        () {}),
+                        'Phone', UserData.phone ?? '', Icons.phone, () {}),
+                    userlistTile('Shipping Address', UserData.email ?? '',
+                        Icons.email, () {}),
+                    userlistTile('Joined Date', UserData.joinedDate ?? '',
+                        Icons.email, () {}),
                     Padding(
                       padding:
                           EdgeInsets.only(left: SizeConfig.screenWidth / 50),
@@ -220,8 +246,6 @@ class _UserInfoState extends State<UserInfo> {
                               ? getThemeManager(context).selectThemeAtIndex(0)
                               : getThemeManager(context).selectThemeAtIndex(
                                   themestorage.selectedTheme.value);
-                          // print(
-                          //     getThemeManager(context).selectedThemeIndex);
                         },
                         switchActiveColor:
                             dynamicTheme.dynamiccolorObj().starterColor,
@@ -237,24 +261,29 @@ class _UserInfoState extends State<UserInfo> {
                         Toast.show("Please Disable Dark Theme First", context);
                       } else {
                         Navigator.pushNamed(
-                            context, ThemeSelectorScreen.screename);
+                            context, ThemeSelectorScreen.routeName);
                       }
                     }),
                     userlistTile('Signout', '', Icons.exit_to_app, () {
-                      Navigator.canPop(context) ? Navigator.pop(context) : null;
+                      _alertbox.showSignoutDialog(
+                          "SignOut", "are you sure", context, () async {
+                        await _auth.userSignout();
+                        UserData().cleanUserData();
+                        Navigator.pop(context);
+                      });
                     }),
                   ],
                 ),
               )
             ],
           ),
-          _buildFab(),
+          _buildFab(dynamicTheme)
         ],
       ),
     );
   }
 
-  Widget _buildFab() {
+  Widget _buildFab(DynamicColorChangerProvider dynamicTheme) {
     //starting fab position
     final double defaultTopMargin = 200.0 - 4.0;
     //pixels from top where scaling should start
@@ -288,9 +317,40 @@ class _UserInfoState extends State<UserInfo> {
         child: FloatingActionButton(
           heroTag: "btn1",
           onPressed: () {
-            getThemeManager(context).selectThemeAtIndex(1);
-            print(getThemeManager(context).selectedThemeIndex);
-            print("camera pressed");
+            showDialog(
+                context: context,
+                builder: (BuildContext context) {
+                  return AlertDialog(
+                    title: Text(
+                      "Choose an Option",
+                      style: TextStyle(
+                          fontWeight: FontWeight.w600,
+                          fontSize: 20,
+                          color: dynamicTheme.dynamiccolorObj().gradientLstart),
+                    ),
+                    content: SingleChildScrollView(
+                      child: ListBody(
+                        children: [
+                          Dialog_Row(
+                            press: _pickImageCamera,
+                            icon: Icons.camera,
+                            text: "Camera",
+                          ),
+                          Dialog_Row(
+                            press: _pickImageGallery,
+                            icon: Icons.image,
+                            text: "Gallery",
+                          ),
+                          Dialog_Row(
+                            press: _remove,
+                            icon: Icons.remove_circle,
+                            text: "remove",
+                          ),
+                        ],
+                      ),
+                    ),
+                  );
+                });
           },
           child: Icon(
             Icons.camera_alt_outlined,
@@ -328,5 +388,3 @@ class _UserInfoState extends State<UserInfo> {
     );
   }
 }
-
-class GetxBuilder {}

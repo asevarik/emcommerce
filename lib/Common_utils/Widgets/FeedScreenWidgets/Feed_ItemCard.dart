@@ -24,12 +24,14 @@ class Feed_Item_Card extends StatelessWidget {
               child: GestureDetector(
                 onTap: press,
                 child: Container(
+                  width: SizeConfig.screenWidth / 2,
                   padding: EdgeInsets.all(SizeConfig.screenHeight / 80),
                   decoration: BoxDecoration(
                       color: product.color,
                       borderRadius: BorderRadius.circular(16)),
                   child: Hero(
-                      tag: "${product.id}", child: Image.asset(product.image)),
+                      tag: "${product.id}",
+                      child: Image.network(product.image)),
                 ),
               ),
             ),

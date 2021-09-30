@@ -1,5 +1,6 @@
 import 'package:ECommerceApp/Common_utils/Consts/Size_config.dart';
 import 'package:ECommerceApp/Common_utils/Widgets/GlobalWidgets/GradientButton.dart';
+import 'package:ECommerceApp/screens/feed.dart';
 import 'package:flutter/material.dart';
 
 class CartEmpty extends StatelessWidget {
@@ -28,7 +29,11 @@ class CartEmpty extends StatelessWidget {
         SizedBox(
           height: SizeConfig.screenHeight / 18,
         ),
-        GradientButton(press: () {}, title: "Shop Now"),
+        GradientButton(
+            press: () {
+              Navigator.of(context).pushNamed(FeedPage.Routename);
+            },
+            title: "Shop Now"),
       ],
     );
   }

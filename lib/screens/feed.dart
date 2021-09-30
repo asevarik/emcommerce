@@ -1,7 +1,5 @@
 import 'package:ECommerceApp/Common_utils/Widgets/FeedScreenWidgets/feed_Widgets.dart';
-import 'package:ECommerceApp/Common_utils/provider/Dark_Theme_provider.dart';
 import 'package:ECommerceApp/Common_utils/provider/Products.dart';
-import 'package:ECommerceApp/Models/feed.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

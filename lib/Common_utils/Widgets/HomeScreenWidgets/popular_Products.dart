@@ -47,7 +47,7 @@ class PopularProducts extends StatelessWidget {
                       color: productAttributes.color,
                       child: Hero(
                         tag: "${productAttributes.id}",
-                        child: Image.asset(productAttributes.image),
+                        child: Image.network(productAttributes.image),
                       ),
                     ),
                     Positioned(

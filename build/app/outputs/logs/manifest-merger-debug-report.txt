@@ -5,27 +5,102 @@ INJECTED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_
 INJECTED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/main/AndroidManifest.xml:1:1-47:12
 INJECTED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/main/AndroidManifest.xml:1:1-47:12
 MERGED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/main/AndroidManifest.xml:1:1-47:12
-MERGED from [:flutter_statusbarcolor_ns] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/flutter_statusbarcolor_ns/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:cloud_firestore] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_auth] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_storage] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-37:12
 MERGED from [:image_picker] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-19:12
 MERGED from [:flutter_plugin_android_lifecycle] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:shared_preferences] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:sqflite] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:flutter_keyboard_visibility] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/flutter_keyboard_visibility/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:path_provider] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ec604e5449993e8427d7c9f0987e34db/exifinterface-1.3.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/8fb4ccede9598c33464fdfb0100bcb48/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/59ac0ca13dc9de11cff7f15325d7b3fc/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/84422c37d8279634a4c10a50395080d4/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a3c8062e3a77f733cbe5c5e0cc61f189/activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/aa70337b04bf54872ee03402ba751794/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b608c3d8537f54a7ed8ad86b3bfe3664/core-1.1.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/cdea5f9e12c7ad9b4dcf3e2b73a75969/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/09150bb5cfb826df40492d0b35dbcf0f/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/3ac62902dadb3addc0d07512e88b7573/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/35861e4ef3dcaec5ac086bbb00aa5b7e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/eccde25b580ef47ee801dc11c50c8add/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d7d046dfd56aa1358b7aa384dca4509d/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/19a56dd0d8c0f0143e9829011684d0b8/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:flutter_statusbarcolor_ns] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/flutter_statusbarcolor_ns/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_keyboard_visibility] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/flutter_keyboard_visibility/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:razorpay_flutter] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:google_sign_in] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.stripe:stripe-android:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1541786d1fc2563e920078d77f743e8/stripe-android-16.10.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:2:1-69:12
+MERGED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/28d82deb96fe25a5e109e2136309e583/stripe-3ds2-android-5.3.1/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-analytics:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/df37ece2bca86e73343cde2993d009fd/firebase-analytics-19.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a186c4c07b20be0c0cf0dcb9de8ba094/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ed9797bce93bfa61e76fd6725504867b/firebase-storage-20.0.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a78078d0ec1df1a94ebb8e9b1dd37f09/play-services-measurement-api-19.0.1/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/4f15888194ef856cb31ce8d33db749a4/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/424e110569b300165ac2e17cb118b651/firebase-appcheck-interop-16.0.0-beta01/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/032b2e4b15ad99827cdc598493785689/firebase-installations-17.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/85091552932bf850bec6f639c6a4f013/jetified-firebase-common-20.0.0/AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/308602ce45b6a92cd68ea4f66c0cf707/exifinterface-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d66eb41fd853957ae647307483538792/play-services-measurement-sdk-19.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6a234ab5de70484b4eacf3a4b047b8a2/play-services-measurement-impl-19.0.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f65afdb546b337283b860e50566a8597/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5ffb870ca9577acad6bd07426c5279ee/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/27911fe9f6aa1d8e84f1cbc1e5d6836f/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/76868c181f1cbf3b3f0088297d4dd9b1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5e72b910f9f0274264302363fc6dae7d/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/53a0953c7d8089037339db61eb58a0b1/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/7ad369c2f47d034b755c84ce660b7a53/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/4c566a8af8dbc5fc72f0555fc0b59269/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/dbf23df749f4afea7e74e9bd298cf059/browser-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0083d3257bb1a4ef6bef1f225be1f034/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5e750fea44dd402f02774d151a1d7517/recyclerview-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.razorpay:checkout:1.6.10] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/AndroidManifest.xml:2:1-32:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/58bdd40eb298ab29d94f6e3ef9f21e27/play-services-auth-17.0.0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/86912f94bde29b1150dbe5f9d3e9256f/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-wallet:18.1.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/3f929fef3803ed5d8854ad50429c0b0b/play-services-wallet-18.1.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.4] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/e4cd88e33045606b55e392fd3fbf1486/fragment-ktx-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/4159defa15c9415b6d1528c6fb0fe161/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1abcb7086988a01ed19c59b4eac98560/play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f3f002376bfcda387fbe8cdfb08421e6/firebase-database-collection-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/207f0c4408ed9b0cbceaab715e5f77f9/play-services-identity-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b41fccb4d86567605e915486dd871de7/play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d672553c68fc2b43aa9398e6a0f230a6/play-services-base-17.5.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/c5a49c44da8d743ce81cfae0f495454d/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5c3efa7b6fe847f5a6b31f5353b3e9ba/play-services-measurement-sdk-api-19.0.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/8ac8ad7270ddb86dce2d7595daa9f556/play-services-measurement-base-19.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d94a71f8f4797dea197906ed1fe0e44b/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ccd9ba9890f46855d280f22011632d19/firebase-installations-interop-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/47c9a6662cb3a7423f5f3c1bd93d1523/play-services-tasks-17.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5c36b408610dacf346b1761f45e8aa92/jetified-play-services-basement-17.5.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/fce78182428ffa6d3ce7400dec146c28/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/627dcb3c312adc44e3b65383a6a1ef62/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0ad774d4c4056dbbfa72b9c01dc634fd/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/83e133b1d64eca2ce7307bd24f8839fa/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/c4ef9147f1afffa52911c2d39f5236ad/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/9200c9f14cd7b8e7f0e7ff5e30b1f347/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f46293f6746e0fadae05e23ed7f48773/activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/713290059170892639f0dddeec3dd82c/activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/e629d2c92cc4b05fb613340fb7aa1990/appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/2f505106a0322edbae02a1f0e76846f4/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/280678e1d817d52a28040279dd9db125/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/23c862f046b462edd1d7a7dbce8f599f/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/94e3c1f5f8d2135fb44d00ccc1123e54/core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core:1.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/889b48116aa8b77e99ac239a5f489a20/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/8c7bc0af51f06d23065b27785bfebd7c/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:4.2.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1b8b6308c7f78bc769333dbe05b75952/viewbinding-4.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b83594599de21536784f5a145d50597f/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/72e2ed8e059f79b841e3c0aab3fcb927/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/8e72fa90f7a4c44752b60c0b4df693e3/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/056defcc33784f4e68924bb545648109/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/c535c6c85651e6303bcbfd12c2f47e58/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f522ff43e113d68b1ce2519353725633/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/cdf437ce3dfffe21ecb94890698e53d4/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/9b79cbfa6df516a5b7dab58f9aaeaf86/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/259c58f425e788f4aa4861e090f77fb4/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b419b1dd0de527310016f0c56b00ebed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f1080183bc98a29e2c451dafec509f65/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d9cb071bec650f5780c0675c1fbfe303/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/9b6da1ece8235bbca979b9e1afe1acc0/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/011a6e8313b6dd5eeb5a4430e6e7eee0/lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1cfe0a5f7f0b7a05d948e0de90bb5972/lifecycle-livedata-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6c2e14389b9f2e83fb661088f6692855/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/67d4fbab874fc8b9e6d84e99f43347d5/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/041dfaffd2b6aa144a6eec805aac95e7/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [io.grpc:grpc-android:1.28.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/e064f2642ba58f9b8465f40acc7d6cf6/grpc-android-1.28.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f940832130778453a25ecf5c51eebb1b/protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1fd9a2a08f9a5fbf3eaaef45f0d1b46d/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
 INJECTED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -45,18 +120,88 @@ INJECTED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_
 		ADDED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/main/AndroidManifest.xml:1:11-69
 application
 ADDED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/main/AndroidManifest.xml:8:5-46:19
+MERGED from [:cloud_firestore] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-35:19
+MERGED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-35:19
 MERGED from [:image_picker] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-17:19
 MERGED from [:image_picker] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-17:19
-MERGED from [androidx.core:core:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b608c3d8537f54a7ed8ad86b3bfe3664/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b608c3d8537f54a7ed8ad86b3bfe3664/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d7d046dfd56aa1358b7aa384dca4509d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d7d046dfd56aa1358b7aa384dca4509d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [:razorpay_flutter] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:razorpay_flutter] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:16:5-67:19
+MERGED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:16:5-67:19
+MERGED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/28d82deb96fe25a5e109e2136309e583/stripe-3ds2-android-5.3.1/AndroidManifest.xml:9:5-16:19
+MERGED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/28d82deb96fe25a5e109e2136309e583/stripe-3ds2-android-5.3.1/AndroidManifest.xml:9:5-16:19
+MERGED from [com.google.firebase:firebase-analytics:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/df37ece2bca86e73343cde2993d009fd/firebase-analytics-19.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/df37ece2bca86e73343cde2993d009fd/firebase-analytics-19.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a186c4c07b20be0c0cf0dcb9de8ba094/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a186c4c07b20be0c0cf0dcb9de8ba094/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ed9797bce93bfa61e76fd6725504867b/firebase-storage-20.0.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ed9797bce93bfa61e76fd6725504867b/firebase-storage-20.0.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a78078d0ec1df1a94ebb8e9b1dd37f09/play-services-measurement-api-19.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a78078d0ec1df1a94ebb8e9b1dd37f09/play-services-measurement-api-19.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/4f15888194ef856cb31ce8d33db749a4/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/4f15888194ef856cb31ce8d33db749a4/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/424e110569b300165ac2e17cb118b651/firebase-appcheck-interop-16.0.0-beta01/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/424e110569b300165ac2e17cb118b651/firebase-appcheck-interop-16.0.0-beta01/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/032b2e4b15ad99827cdc598493785689/firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/032b2e4b15ad99827cdc598493785689/firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/85091552932bf850bec6f639c6a4f013/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/85091552932bf850bec6f639c6a4f013/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d66eb41fd853957ae647307483538792/play-services-measurement-sdk-19.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d66eb41fd853957ae647307483538792/play-services-measurement-sdk-19.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6a234ab5de70484b4eacf3a4b047b8a2/play-services-measurement-impl-19.0.1/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6a234ab5de70484b4eacf3a4b047b8a2/play-services-measurement-impl-19.0.1/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f65afdb546b337283b860e50566a8597/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f65afdb546b337283b860e50566a8597/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5ffb870ca9577acad6bd07426c5279ee/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5ffb870ca9577acad6bd07426c5279ee/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/7ad369c2f47d034b755c84ce660b7a53/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/7ad369c2f47d034b755c84ce660b7a53/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.razorpay:checkout:1.6.10] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/AndroidManifest.xml:11:5-30:19
+MERGED from [com.razorpay:checkout:1.6.10] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/AndroidManifest.xml:11:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/58bdd40eb298ab29d94f6e3ef9f21e27/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/58bdd40eb298ab29d94f6e3ef9f21e27/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1abcb7086988a01ed19c59b4eac98560/play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1abcb7086988a01ed19c59b4eac98560/play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/207f0c4408ed9b0cbceaab715e5f77f9/play-services-identity-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/207f0c4408ed9b0cbceaab715e5f77f9/play-services-identity-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b41fccb4d86567605e915486dd871de7/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b41fccb4d86567605e915486dd871de7/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d672553c68fc2b43aa9398e6a0f230a6/play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d672553c68fc2b43aa9398e6a0f230a6/play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/c5a49c44da8d743ce81cfae0f495454d/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/c5a49c44da8d743ce81cfae0f495454d/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/8ac8ad7270ddb86dce2d7595daa9f556/play-services-measurement-base-19.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/8ac8ad7270ddb86dce2d7595daa9f556/play-services-measurement-base-19.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d94a71f8f4797dea197906ed1fe0e44b/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d94a71f8f4797dea197906ed1fe0e44b/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/47c9a6662cb3a7423f5f3c1bd93d1523/play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/47c9a6662cb3a7423f5f3c1bd93d1523/play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5c36b408610dacf346b1761f45e8aa92/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5c36b408610dacf346b1761f45e8aa92/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/889b48116aa8b77e99ac239a5f489a20/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/889b48116aa8b77e99ac239a5f489a20/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/8c7bc0af51f06d23065b27785bfebd7c/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/8c7bc0af51f06d23065b27785bfebd7c/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b608c3d8537f54a7ed8ad86b3bfe3664/core-1.1.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/889b48116aa8b77e99ac239a5f489a20/core-1.5.0/AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/main/AndroidManifest.xml:10:9-37
 	android:icon
 		ADDED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:11:18-74
 	android:name
 		ADDED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/main/AndroidManifest.xml:9:9-57
 activity#com.example.ECommerceApp.MainActivity
@@ -105,8 +250,16 @@ uses-sdk
 INJECTED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/main/AndroidManifest.xml
-MERGED from [:flutter_statusbarcolor_ns] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/flutter_statusbarcolor_ns/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_statusbarcolor_ns] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/flutter_statusbarcolor_ns/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:image_picker] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:image_picker] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:flutter_plugin_android_lifecycle] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
@@ -115,38 +268,180 @@ MERGED from [:shared_preferences] /Users/Abhishek-Sevarik/Documents/Flutter Proj
 MERGED from [:shared_preferences] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:sqflite] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:sqflite] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_keyboard_visibility] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/flutter_keyboard_visibility/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_keyboard_visibility] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/flutter_keyboard_visibility/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:path_provider] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:path_provider] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ec604e5449993e8427d7c9f0987e34db/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ec604e5449993e8427d7c9f0987e34db/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/8fb4ccede9598c33464fdfb0100bcb48/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/8fb4ccede9598c33464fdfb0100bcb48/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/59ac0ca13dc9de11cff7f15325d7b3fc/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/59ac0ca13dc9de11cff7f15325d7b3fc/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/84422c37d8279634a4c10a50395080d4/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/84422c37d8279634a4c10a50395080d4/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a3c8062e3a77f733cbe5c5e0cc61f189/activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a3c8062e3a77f733cbe5c5e0cc61f189/activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/aa70337b04bf54872ee03402ba751794/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/aa70337b04bf54872ee03402ba751794/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b608c3d8537f54a7ed8ad86b3bfe3664/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b608c3d8537f54a7ed8ad86b3bfe3664/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/cdea5f9e12c7ad9b4dcf3e2b73a75969/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/cdea5f9e12c7ad9b4dcf3e2b73a75969/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/09150bb5cfb826df40492d0b35dbcf0f/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/09150bb5cfb826df40492d0b35dbcf0f/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/3ac62902dadb3addc0d07512e88b7573/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/3ac62902dadb3addc0d07512e88b7573/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/35861e4ef3dcaec5ac086bbb00aa5b7e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/35861e4ef3dcaec5ac086bbb00aa5b7e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/eccde25b580ef47ee801dc11c50c8add/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/eccde25b580ef47ee801dc11c50c8add/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d7d046dfd56aa1358b7aa384dca4509d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d7d046dfd56aa1358b7aa384dca4509d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/19a56dd0d8c0f0143e9829011684d0b8/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/19a56dd0d8c0f0143e9829011684d0b8/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [:flutter_statusbarcolor_ns] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/flutter_statusbarcolor_ns/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_statusbarcolor_ns] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/flutter_statusbarcolor_ns/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_keyboard_visibility] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/flutter_keyboard_visibility/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_keyboard_visibility] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/flutter_keyboard_visibility/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:razorpay_flutter] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:razorpay_flutter] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:stripe-android:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1541786d1fc2563e920078d77f743e8/stripe-android-16.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.stripe:stripe-android:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1541786d1fc2563e920078d77f743e8/stripe-android-16.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/28d82deb96fe25a5e109e2136309e583/stripe-3ds2-android-5.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/28d82deb96fe25a5e109e2136309e583/stripe-3ds2-android-5.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-analytics:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/df37ece2bca86e73343cde2993d009fd/firebase-analytics-19.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/df37ece2bca86e73343cde2993d009fd/firebase-analytics-19.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a186c4c07b20be0c0cf0dcb9de8ba094/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a186c4c07b20be0c0cf0dcb9de8ba094/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ed9797bce93bfa61e76fd6725504867b/firebase-storage-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ed9797bce93bfa61e76fd6725504867b/firebase-storage-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a78078d0ec1df1a94ebb8e9b1dd37f09/play-services-measurement-api-19.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a78078d0ec1df1a94ebb8e9b1dd37f09/play-services-measurement-api-19.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/4f15888194ef856cb31ce8d33db749a4/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/4f15888194ef856cb31ce8d33db749a4/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/424e110569b300165ac2e17cb118b651/firebase-appcheck-interop-16.0.0-beta01/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/424e110569b300165ac2e17cb118b651/firebase-appcheck-interop-16.0.0-beta01/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/032b2e4b15ad99827cdc598493785689/firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/032b2e4b15ad99827cdc598493785689/firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/85091552932bf850bec6f639c6a4f013/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/85091552932bf850bec6f639c6a4f013/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/308602ce45b6a92cd68ea4f66c0cf707/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/308602ce45b6a92cd68ea4f66c0cf707/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d66eb41fd853957ae647307483538792/play-services-measurement-sdk-19.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d66eb41fd853957ae647307483538792/play-services-measurement-sdk-19.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6a234ab5de70484b4eacf3a4b047b8a2/play-services-measurement-impl-19.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6a234ab5de70484b4eacf3a4b047b8a2/play-services-measurement-impl-19.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f65afdb546b337283b860e50566a8597/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f65afdb546b337283b860e50566a8597/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5ffb870ca9577acad6bd07426c5279ee/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5ffb870ca9577acad6bd07426c5279ee/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/27911fe9f6aa1d8e84f1cbc1e5d6836f/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/27911fe9f6aa1d8e84f1cbc1e5d6836f/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/76868c181f1cbf3b3f0088297d4dd9b1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/76868c181f1cbf3b3f0088297d4dd9b1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5e72b910f9f0274264302363fc6dae7d/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5e72b910f9f0274264302363fc6dae7d/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/53a0953c7d8089037339db61eb58a0b1/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/53a0953c7d8089037339db61eb58a0b1/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/7ad369c2f47d034b755c84ce660b7a53/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/7ad369c2f47d034b755c84ce660b7a53/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/4c566a8af8dbc5fc72f0555fc0b59269/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/4c566a8af8dbc5fc72f0555fc0b59269/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/dbf23df749f4afea7e74e9bd298cf059/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/dbf23df749f4afea7e74e9bd298cf059/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0083d3257bb1a4ef6bef1f225be1f034/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0083d3257bb1a4ef6bef1f225be1f034/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5e750fea44dd402f02774d151a1d7517/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5e750fea44dd402f02774d151a1d7517/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.razorpay:checkout:1.6.10] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.razorpay:checkout:1.6.10] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/58bdd40eb298ab29d94f6e3ef9f21e27/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/58bdd40eb298ab29d94f6e3ef9f21e27/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/86912f94bde29b1150dbe5f9d3e9256f/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/86912f94bde29b1150dbe5f9d3e9256f/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wallet:18.1.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/3f929fef3803ed5d8854ad50429c0b0b/play-services-wallet-18.1.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:18.1.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/3f929fef3803ed5d8854ad50429c0b0b/play-services-wallet-18.1.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.3.4] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/e4cd88e33045606b55e392fd3fbf1486/fragment-ktx-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.4] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/e4cd88e33045606b55e392fd3fbf1486/fragment-ktx-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/4159defa15c9415b6d1528c6fb0fe161/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/4159defa15c9415b6d1528c6fb0fe161/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1abcb7086988a01ed19c59b4eac98560/play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1abcb7086988a01ed19c59b4eac98560/play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f3f002376bfcda387fbe8cdfb08421e6/firebase-database-collection-18.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f3f002376bfcda387fbe8cdfb08421e6/firebase-database-collection-18.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/207f0c4408ed9b0cbceaab715e5f77f9/play-services-identity-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/207f0c4408ed9b0cbceaab715e5f77f9/play-services-identity-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b41fccb4d86567605e915486dd871de7/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b41fccb4d86567605e915486dd871de7/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d672553c68fc2b43aa9398e6a0f230a6/play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d672553c68fc2b43aa9398e6a0f230a6/play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/c5a49c44da8d743ce81cfae0f495454d/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/c5a49c44da8d743ce81cfae0f495454d/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5c3efa7b6fe847f5a6b31f5353b3e9ba/play-services-measurement-sdk-api-19.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5c3efa7b6fe847f5a6b31f5353b3e9ba/play-services-measurement-sdk-api-19.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/8ac8ad7270ddb86dce2d7595daa9f556/play-services-measurement-base-19.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/8ac8ad7270ddb86dce2d7595daa9f556/play-services-measurement-base-19.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d94a71f8f4797dea197906ed1fe0e44b/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d94a71f8f4797dea197906ed1fe0e44b/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ccd9ba9890f46855d280f22011632d19/firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ccd9ba9890f46855d280f22011632d19/firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/47c9a6662cb3a7423f5f3c1bd93d1523/play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/47c9a6662cb3a7423f5f3c1bd93d1523/play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5c36b408610dacf346b1761f45e8aa92/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5c36b408610dacf346b1761f45e8aa92/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/fce78182428ffa6d3ce7400dec146c28/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/fce78182428ffa6d3ce7400dec146c28/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/627dcb3c312adc44e3b65383a6a1ef62/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/627dcb3c312adc44e3b65383a6a1ef62/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0ad774d4c4056dbbfa72b9c01dc634fd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0ad774d4c4056dbbfa72b9c01dc634fd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/83e133b1d64eca2ce7307bd24f8839fa/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/83e133b1d64eca2ce7307bd24f8839fa/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/c4ef9147f1afffa52911c2d39f5236ad/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/c4ef9147f1afffa52911c2d39f5236ad/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/9200c9f14cd7b8e7f0e7ff5e30b1f347/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/9200c9f14cd7b8e7f0e7ff5e30b1f347/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f46293f6746e0fadae05e23ed7f48773/activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f46293f6746e0fadae05e23ed7f48773/activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/713290059170892639f0dddeec3dd82c/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/713290059170892639f0dddeec3dd82c/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/e629d2c92cc4b05fb613340fb7aa1990/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/e629d2c92cc4b05fb613340fb7aa1990/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/2f505106a0322edbae02a1f0e76846f4/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/2f505106a0322edbae02a1f0e76846f4/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/280678e1d817d52a28040279dd9db125/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/280678e1d817d52a28040279dd9db125/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/23c862f046b462edd1d7a7dbce8f599f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/23c862f046b462edd1d7a7dbce8f599f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/94e3c1f5f8d2135fb44d00ccc1123e54/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/94e3c1f5f8d2135fb44d00ccc1123e54/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core:1.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/889b48116aa8b77e99ac239a5f489a20/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/889b48116aa8b77e99ac239a5f489a20/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/8c7bc0af51f06d23065b27785bfebd7c/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/8c7bc0af51f06d23065b27785bfebd7c/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:4.2.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1b8b6308c7f78bc769333dbe05b75952/viewbinding-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1b8b6308c7f78bc769333dbe05b75952/viewbinding-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b83594599de21536784f5a145d50597f/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b83594599de21536784f5a145d50597f/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/72e2ed8e059f79b841e3c0aab3fcb927/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/72e2ed8e059f79b841e3c0aab3fcb927/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/8e72fa90f7a4c44752b60c0b4df693e3/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/8e72fa90f7a4c44752b60c0b4df693e3/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/056defcc33784f4e68924bb545648109/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/056defcc33784f4e68924bb545648109/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/c535c6c85651e6303bcbfd12c2f47e58/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/c535c6c85651e6303bcbfd12c2f47e58/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f522ff43e113d68b1ce2519353725633/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f522ff43e113d68b1ce2519353725633/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/cdf437ce3dfffe21ecb94890698e53d4/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/cdf437ce3dfffe21ecb94890698e53d4/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/9b79cbfa6df516a5b7dab58f9aaeaf86/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/9b79cbfa6df516a5b7dab58f9aaeaf86/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/259c58f425e788f4aa4861e090f77fb4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/259c58f425e788f4aa4861e090f77fb4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b419b1dd0de527310016f0c56b00ebed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b419b1dd0de527310016f0c56b00ebed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f1080183bc98a29e2c451dafec509f65/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f1080183bc98a29e2c451dafec509f65/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d9cb071bec650f5780c0675c1fbfe303/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d9cb071bec650f5780c0675c1fbfe303/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/9b6da1ece8235bbca979b9e1afe1acc0/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/9b6da1ece8235bbca979b9e1afe1acc0/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/011a6e8313b6dd5eeb5a4430e6e7eee0/lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/011a6e8313b6dd5eeb5a4430e6e7eee0/lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1cfe0a5f7f0b7a05d948e0de90bb5972/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1cfe0a5f7f0b7a05d948e0de90bb5972/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6c2e14389b9f2e83fb661088f6692855/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6c2e14389b9f2e83fb661088f6692855/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/67d4fbab874fc8b9e6d84e99f43347d5/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/67d4fbab874fc8b9e6d84e99f43347d5/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/041dfaffd2b6aa144a6eec805aac95e7/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/041dfaffd2b6aa144a6eec805aac95e7/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [io.grpc:grpc-android:1.28.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/e064f2642ba58f9b8465f40acc7d6cf6/grpc-android-1.28.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/e064f2642ba58f9b8465f40acc7d6cf6/grpc-android-1.28.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f940832130778453a25ecf5c51eebb1b/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f940832130778453a25ecf5c51eebb1b/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1fd9a2a08f9a5fbf3eaaef45f0d1b46d/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1fd9a2a08f9a5fbf3eaaef45f0d1b46d/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
 INJECTED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/debug/AndroidManifest.xml
 INJECTED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
@@ -157,8 +452,126 @@ INJECTED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_
 		INJECTED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [:google_sign_in] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a186c4c07b20be0c0cf0dcb9de8ba094/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a186c4c07b20be0c0cf0dcb9de8ba094/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ed9797bce93bfa61e76fd6725504867b/firebase-storage-20.0.0/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ed9797bce93bfa61e76fd6725504867b/firebase-storage-20.0.0/AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a78078d0ec1df1a94ebb8e9b1dd37f09/play-services-measurement-api-19.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a78078d0ec1df1a94ebb8e9b1dd37f09/play-services-measurement-api-19.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/032b2e4b15ad99827cdc598493785689/firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/032b2e4b15ad99827cdc598493785689/firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6a234ab5de70484b4eacf3a4b047b8a2/play-services-measurement-impl-19.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6a234ab5de70484b4eacf3a4b047b8a2/play-services-measurement-impl-19.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.razorpay:checkout:1.6.10] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/AndroidManifest.xml:9:5-67
+MERGED from [com.razorpay:checkout:1.6.10] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b41fccb4d86567605e915486dd871de7/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b41fccb4d86567605e915486dd871de7/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5c3efa7b6fe847f5a6b31f5353b3e9ba/play-services-measurement-sdk-api-19.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5c3efa7b6fe847f5a6b31f5353b3e9ba/play-services-measurement-sdk-api-19.0.1/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/android/app/src/debug/AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:cloud_firestore] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a186c4c07b20be0c0cf0dcb9de8ba094/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a186c4c07b20be0c0cf0dcb9de8ba094/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ed9797bce93bfa61e76fd6725504867b/firebase-storage-20.0.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ed9797bce93bfa61e76fd6725504867b/firebase-storage-20.0.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a78078d0ec1df1a94ebb8e9b1dd37f09/play-services-measurement-api-19.0.1/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a78078d0ec1df1a94ebb8e9b1dd37f09/play-services-measurement-api-19.0.1/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/032b2e4b15ad99827cdc598493785689/firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/032b2e4b15ad99827cdc598493785689/firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/85091552932bf850bec6f639c6a4f013/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/85091552932bf850bec6f639c6a4f013/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/85091552932bf850bec6f639c6a4f013/jetified-firebase-common-20.0.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/85091552932bf850bec6f639c6a4f013/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:cloud_firestore] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+ADDED from [:cloud_firestore] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-134
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+ADDED from [:firebase_auth] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_storage] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_storage] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_storage] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-14:36
+	android:value
+		ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-33
+	android:name
+		ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-69
+activity#com.gettipsi.stripe.OpenBrowserActivity
+ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:75
+	android:launchMode
+		ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-44
+	android:exported
+		ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:theme
+		ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-72
+	android:name
+		ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-67
+activity#com.gettipsi.stripe.RedirectUriReceiver
+ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:21:9-34:20
+	android:launchMode
+		ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-44
+	android:exported
+		ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-36
+	android:theme
+		ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-83
+	android:name
+		ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-67
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:example
+ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-33:29
+action#android.intent.action.VIEW
+ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:27:25-66
+category#android.intent.category.DEFAULT
+ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:29:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-78
+	android:name
+		ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:30:27-75
+data
+ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:32:17-50
+	android:scheme
+		ADDED from [:stripe_payment] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/library_manifest/debug/AndroidManifest.xml:32:23-47
 provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
 ADDED from [:image_picker] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-16:20
 	android:grantUriPermissions
@@ -175,3 +588,305 @@ ADDED from [:image_picker] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Sh
 		ADDED from [:image_picker] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-72
 	android:name
 		ADDED from [:image_picker] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
+activity#com.razorpay.CheckoutActivity
+ADDED from [:razorpay_flutter] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:20
+MERGED from [com.razorpay:checkout:1.6.10] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/AndroidManifest.xml:18:9-29:20
+MERGED from [com.razorpay:checkout:1.6.10] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/AndroidManifest.xml:18:9-29:20
+	android:label
+		ADDED from [:razorpay_flutter] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-46
+	android:configChanges
+		ADDED from [com.razorpay:checkout:1.6.10] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/AndroidManifest.xml:20:13-83
+	android:theme
+		ADDED from [com.razorpay:checkout:1.6.10] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from [:razorpay_flutter] /Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-57
+queries
+ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:10:5-14:15
+package
+ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:13:9-54
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:13:18-51
+activity#com.stripe.android.view.AddPaymentMethodActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:17:9-19:57
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:19:13-54
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:18:13-76
+activity#com.stripe.android.view.PaymentMethodsActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:20:9-22:57
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:22:13-54
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:21:13-74
+activity#com.stripe.android.view.PaymentFlowActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:23:9-25:57
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:25:13-54
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:24:13-71
+activity#com.stripe.android.view.PaymentAuthWebViewActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:26:9-29:58
+	android:windowSoftInputMode
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:29:13-55
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:28:13-54
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:27:13-78
+activity#com.stripe.android.view.PaymentRelayActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:30:9-32:61
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:31:13-72
+activity#com.stripe.android.payments.StripeBrowserLauncherActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:38:9-54:20
+	android:launchMode
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:40:13-43
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:41:13-58
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:39:13-85
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:payment_return_url+data:path:/${applicationId}+data:scheme:stripesdk
+ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:42:13-53:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:payment_return_url+data:path:/com.example.ECommerceApp+data:scheme:stripesdk
+ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:42:13-53:29
+activity#com.stripe.android.view.Stripe3ds2CompletionActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:55:9-57:57
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:57:13-54
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:56:13-80
+activity#com.stripe.android.paymentsheet.PaymentSheetActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:58:9-60:69
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:60:13-66
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:59:13-80
+activity#com.stripe.android.paymentsheet.PaymentOptionsActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:61:9-63:69
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:63:13-66
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:62:13-82
+activity#com.stripe.android.googlepay.StripeGooglePayActivity
+ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:64:9-66:66
+	android:theme
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:66:13-63
+	android:name
+		ADDED from [com.stripe:payments-core:16.10.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/AndroidManifest.xml:65:13-80
+activity#com.stripe.android.stripe3ds2.views.ChallengeActivity
+ADDED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/28d82deb96fe25a5e109e2136309e583/stripe-3ds2-android-5.3.1/AndroidManifest.xml:10:9-12:54
+	android:theme
+		ADDED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/28d82deb96fe25a5e109e2136309e583/stripe-3ds2-android-5.3.1/AndroidManifest.xml:12:13-51
+	android:name
+		ADDED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/28d82deb96fe25a5e109e2136309e583/stripe-3ds2-android-5.3.1/AndroidManifest.xml:11:13-81
+activity#com.stripe.android.stripe3ds2.views.ChallengeProgressActivity
+ADDED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/28d82deb96fe25a5e109e2136309e583/stripe-3ds2-android-5.3.1/AndroidManifest.xml:13:9-15:54
+	android:theme
+		ADDED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/28d82deb96fe25a5e109e2136309e583/stripe-3ds2-android-5.3.1/AndroidManifest.xml:15:13-51
+	android:name
+		ADDED from [com.stripe:stripe-3ds2-android:5.3.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/28d82deb96fe25a5e109e2136309e583/stripe-3ds2-android-5.3.1/AndroidManifest.xml:14:13-89
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a186c4c07b20be0c0cf0dcb9de8ba094/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a186c4c07b20be0c0cf0dcb9de8ba094/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ed9797bce93bfa61e76fd6725504867b/firebase-storage-20.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ed9797bce93bfa61e76fd6725504867b/firebase-storage-20.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a78078d0ec1df1a94ebb8e9b1dd37f09/play-services-measurement-api-19.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a78078d0ec1df1a94ebb8e9b1dd37f09/play-services-measurement-api-19.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/032b2e4b15ad99827cdc598493785689/firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/032b2e4b15ad99827cdc598493785689/firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6a234ab5de70484b4eacf3a4b047b8a2/play-services-measurement-impl-19.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6a234ab5de70484b4eacf3a4b047b8a2/play-services-measurement-impl-19.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b41fccb4d86567605e915486dd871de7/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b41fccb4d86567605e915486dd871de7/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5c3efa7b6fe847f5a6b31f5353b3e9ba/play-services-measurement-sdk-api-19.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5c3efa7b6fe847f5a6b31f5353b3e9ba/play-services-measurement-sdk-api-19.0.1/AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/e064f2642ba58f9b8465f40acc7d6cf6/grpc-android-1.28.0/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/e064f2642ba58f9b8465f40acc7d6cf6/grpc-android-1.28.0/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:33:13-43:29
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:69:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6999131a299fa240e7f53347f7d87560/jetified-firebase-auth-21.0.1/AndroidManifest.xml:78:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:23.0.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a186c4c07b20be0c0cf0dcb9de8ba094/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:23.0.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a186c4c07b20be0c0cf0dcb9de8ba094/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:23.0.3] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a186c4c07b20be0c0cf0dcb9de8ba094/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ed9797bce93bfa61e76fd6725504867b/firebase-storage-20.0.0/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ed9797bce93bfa61e76fd6725504867b/firebase-storage-20.0.0/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/ed9797bce93bfa61e76fd6725504867b/firebase-storage-20.0.0/AndroidManifest.xml:34:17-107
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a78078d0ec1df1a94ebb8e9b1dd37f09/play-services-measurement-api-19.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6a234ab5de70484b4eacf3a4b047b8a2/play-services-measurement-impl-19.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6a234ab5de70484b4eacf3a4b047b8a2/play-services-measurement-impl-19.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5c3efa7b6fe847f5a6b31f5353b3e9ba/play-services-measurement-sdk-api-19.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5c3efa7b6fe847f5a6b31f5353b3e9ba/play-services-measurement-sdk-api-19.0.1/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a78078d0ec1df1a94ebb8e9b1dd37f09/play-services-measurement-api-19.0.1/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a78078d0ec1df1a94ebb8e9b1dd37f09/play-services-measurement-api-19.0.1/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a78078d0ec1df1a94ebb8e9b1dd37f09/play-services-measurement-api-19.0.1/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/a78078d0ec1df1a94ebb8e9b1dd37f09/play-services-measurement-api-19.0.1/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/032b2e4b15ad99827cdc598493785689/firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/032b2e4b15ad99827cdc598493785689/firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/032b2e4b15ad99827cdc598493785689/firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/85091552932bf850bec6f639c6a4f013/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/85091552932bf850bec6f639c6a4f013/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/85091552932bf850bec6f639c6a4f013/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/85091552932bf850bec6f639c6a4f013/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/85091552932bf850bec6f639c6a4f013/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/85091552932bf850bec6f639c6a4f013/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6a234ab5de70484b4eacf3a4b047b8a2/play-services-measurement-impl-19.0.1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6a234ab5de70484b4eacf3a4b047b8a2/play-services-measurement-impl-19.0.1/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/f89f40a6d9848b34e861c01d32244565/play-services-measurement-19.0.1/AndroidManifest.xml:40:13-87
+receiver#com.razorpay.RzpTokenReceiver
+ADDED from [com.razorpay:checkout:1.6.10] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/AndroidManifest.xml:12:9-16:20
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.10] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/AndroidManifest.xml:12:19-63
+intent-filter#action:name:rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.6.10] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/AndroidManifest.xml:13:13-15:29
+action#rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.6.10] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/AndroidManifest.xml:14:17-65
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.10] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/AndroidManifest.xml:14:25-62
+intent-filter#action:name:android.intent.action.MAIN+data:host:rzp.io+data:scheme:io.rzp
+ADDED from [com.razorpay:checkout:1.6.10] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/AndroidManifest.xml:22:13-28:29
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/58bdd40eb298ab29d94f6e3ef9f21e27/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/58bdd40eb298ab29d94f6e3ef9f21e27/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/58bdd40eb298ab29d94f6e3ef9f21e27/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/58bdd40eb298ab29d94f6e3ef9f21e27/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/58bdd40eb298ab29d94f6e3ef9f21e27/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/58bdd40eb298ab29d94f6e3ef9f21e27/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/58bdd40eb298ab29d94f6e3ef9f21e27/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/58bdd40eb298ab29d94f6e3ef9f21e27/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/58bdd40eb298ab29d94f6e3ef9f21e27/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b41fccb4d86567605e915486dd871de7/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b41fccb4d86567605e915486dd871de7/play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b41fccb4d86567605e915486dd871de7/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b41fccb4d86567605e915486dd871de7/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b41fccb4d86567605e915486dd871de7/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b41fccb4d86567605e915486dd871de7/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d672553c68fc2b43aa9398e6a0f230a6/play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d672553c68fc2b43aa9398e6a0f230a6/play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d672553c68fc2b43aa9398e6a0f230a6/play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/d672553c68fc2b43aa9398e6a0f230a6/play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5c36b408610dacf346b1761f45e8aa92/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5c36b408610dacf346b1761f45e8aa92/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5c36b408610dacf346b1761f45e8aa92/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58

@@ -5,8 +5,8 @@ import 'package:ECommerceApp/Common_utils/provider/FavProvider.dart';
 import 'package:ECommerceApp/Common_utils/provider/Products.dart';
 import 'package:ECommerceApp/Common_utils/provider/cart_provider.dart';
 import 'package:ECommerceApp/Models/feed.dart';
-import 'package:ECommerceApp/screens/Wishlist.dart';
-import 'package:ECommerceApp/screens/cart.dart';
+import 'package:ECommerceApp/screens/wishlist/Wishlist.dart';
+import 'package:ECommerceApp/screens/cart/cart.dart';
 import 'package:ECommerceApp/screens/product_details.dart';
 import 'package:badges/badges.dart';
 import 'package:flutter/cupertino.dart';
@@ -96,6 +96,10 @@ class Body extends StatelessWidget {
     this.products,
   }) : super(key: key);
   final List<Product> products;
+  Future<void> _onRefreshFeed(BuildContext context) async {
+    Provider.of<ProductProvider>(context).fetchProducts();
+  }
+
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -105,26 +109,41 @@ class Body extends StatelessWidget {
           left: SizeConfig.blockSizeVertical * 2,
           right: SizeConfig.blockSizeVertical * 2,
         ),
-        child: GridView.builder(
-            itemCount: products.length,
-            gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                crossAxisCount: 2,
-                childAspectRatio: 0.74,
-                mainAxisSpacing: SizeConfig.screenHeight / 50,
-                crossAxisSpacing: SizeConfig.screenWidth / 15),
-            itemBuilder: (BuildContext context, int index) {
-              return Feed_Item_Card(
-                product: products[index],
-                press: () => Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                    builder: (context) => Product_Details(
-                      product: products[index],
-                    ),
+        child: products.isEmpty
+            ? Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Icon(
+                    Icons.emoji_people_outlined,
+                    size: 120,
                   ),
-                ),
-              );
-            }),
+                  Text(
+                    "no Products right now but we're expanding our business",
+                    textAlign: TextAlign.center,
+                    style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
+                  )
+                ],
+              )
+            : GridView.builder(
+                itemCount: products.length,
+                gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                    crossAxisCount: 2,
+                    childAspectRatio: 0.74,
+                    mainAxisSpacing: SizeConfig.screenHeight / 50,
+                    crossAxisSpacing: SizeConfig.screenWidth / 15),
+                itemBuilder: (BuildContext context, int index) {
+                  return Feed_Item_Card(
+                    product: products[index],
+                    press: () => Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => Product_Details(
+                          product: products[index],
+                        ),
+                      ),
+                    ),
+                  );
+                }),
       ),
     );
   }

@@ -38,12 +38,7 @@ AppBar buildAppBar(BuildContext context, CartProvider cartProvider) {
 
 //!this is the body of the Cart screen
 
-class CartFullBody extends StatefulWidget {
-  @override
-  _CartFullBodyState createState() => _CartFullBodyState();
-}
-
-class _CartFullBodyState extends State<CartFullBody> {
+class CartFullBody extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     DynamicColorChangerProvider dynamictheme =
@@ -119,7 +114,7 @@ class Cart_Item_Box extends StatelessWidget {
                   ),
                   Align(
                     alignment: Alignment.topLeft,
-                    child: Image.asset(cartAttributes.imageUrl),
+                    child: Image.network(cartAttributes.imageUrl),
                   )
                 ],
               ),
@@ -228,6 +223,9 @@ class Cart_Item_Box extends StatelessWidget {
 //! Below is the bottomAppBAR or checkout part of the cart
 
 class CartCheckout extends StatelessWidget {
+  final Function press;
+
+  const CartCheckout({Key key, this.press}) : super(key: key);
   @override
   Widget build(BuildContext context) {
     final cartProvider = Provider.of<CartProvider>(context);
@@ -261,7 +259,7 @@ class CartCheckout extends StatelessWidget {
             ),
             GradientButton(
               title: "Checkout",
-              press: () {},
+              press: press,
             ),
           ],
         ));

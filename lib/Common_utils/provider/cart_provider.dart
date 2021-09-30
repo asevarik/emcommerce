@@ -16,7 +16,7 @@ class CartProvider with ChangeNotifier {
   }
 
   void addProductToCart(
-      int productId, double price, String title, String imageUrl) {
+      String productId, double price, String title, String imageUrl) {
     if (_cartItems.containsKey(productId.toString())) {
       _cartItems.update(
           productId.toString(),
@@ -42,7 +42,7 @@ class CartProvider with ChangeNotifier {
   }
 
   void reduceOneQuantityFromCart(
-      int productId, double price, String title, String imageUrl) {
+      String productId, double price, String title, String imageUrl) {
     if (_cartItems.containsKey(productId.toString())) {
       _cartItems.update(
           productId.toString(),
@@ -53,6 +53,11 @@ class CartProvider with ChangeNotifier {
               quantity: exsistingCartItem.quantity - 1,
               imageUrl: exsistingCartItem.imageUrl));
     }
+    notifyListeners();
+  }
+
+  void cleanCart() {
+    _cartItems.clear();
     notifyListeners();
   }
 

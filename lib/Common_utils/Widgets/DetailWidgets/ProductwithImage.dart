@@ -48,7 +48,7 @@ class Product_With_Image extends StatelessWidget {
               Expanded(
                 child: Hero(
                     tag: "${product.id}",
-                    child: Image.asset(product.image, fit: BoxFit.fill)),
+                    child: Image.network(product.image, fit: BoxFit.fill)),
               )
             ],
           )

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 class Product with ChangeNotifier {
-  final String image, title, description, productCategoryName, brand;
-  final int id, size, quantity;
+  final String image, title, description, productCategoryName, brand,id;
+  final int  size, quantity;
   final double price;
   final bool isFavorite, isPopular;
   final Color color;

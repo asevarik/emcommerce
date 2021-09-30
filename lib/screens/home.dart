@@ -3,7 +3,7 @@ import 'package:ECommerceApp/Common_utils/Widgets/HomeScreenWidgets/Catergories.
 import 'package:ECommerceApp/Common_utils/Widgets/HomeScreenWidgets/backlayer.dart';
 import 'package:ECommerceApp/Common_utils/Widgets/HomeScreenWidgets/popular_Products.dart';
 import 'package:ECommerceApp/Common_utils/provider/Products.dart';
-import 'package:ECommerceApp/screens/feed.dart';
+import 'package:ECommerceApp/Models/user.dart';
 import 'package:ECommerceApp/screens/inner_screens/Categories_FeedScreen.dart';
 import 'package:ECommerceApp/screens/inner_screens/brands_navigation_rail%20copy.dart';
 import 'package:backdrop/app_bar.dart';
@@ -13,6 +13,7 @@ import 'package:carousel_pro/carousel_pro.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_swiper/flutter_swiper.dart';
 import 'package:provider/provider.dart';
+import 'dart:math' as math;
 
 class HomePage extends StatefulWidget {
   @override
@@ -26,6 +27,7 @@ class _HomePageState extends State<HomePage> {
     'assets/images/carousel3.jpg',
     'assets/images/carousel4.png'
   ];
+
   List _brandImages = [
     "assets/images/addidas.jpg",
     "assets/images/apple.jpg",
@@ -35,6 +37,16 @@ class _HomePageState extends State<HomePage> {
     "assets/images/samsung.jpg",
     "assets/images/huawei.jpg",
   ];
+  @override
+  void initState() {
+    // TODO: implement initState
+    super.initState();
+    WidgetsBinding.instance.addPostFrameCallback(
+        (_) => Future.delayed(Duration(milliseconds: 20)).then((value) {
+              print("setStateCalled");
+              return setState(() {});
+            }));
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -42,6 +54,8 @@ class _HomePageState extends State<HomePage> {
         DynamicColorChangerProvider(context);
     final productsData = Provider.of<ProductProvider>(context);
     final popularItems = productsData.popularProducts;
+    productsData.fetchProducts();
+   
     return BackdropScaffold(
       frontLayerBackgroundColor: Theme.of(context).scaffoldBackgroundColor,
       headerHeight: MediaQuery.of(context).size.height * 0.25,
@@ -68,8 +82,8 @@ class _HomePageState extends State<HomePage> {
                 backgroundColor: Colors.white,
                 child: CircleAvatar(
                   radius: 15,
-                  backgroundImage: NetworkImage(
-                      'https://www.pngitem.com/pimgs/m/35-350426_profile-icon-png-default-profile-picture-png-transparent.png'),
+                  backgroundImage: NetworkImage(UserData.photourl ??
+                      'https://firebasestorage.googleapis.com/v0/b/ecommerceflutter-2a0d9.appspot.com/o/UserImages%2Fbaap.jpg?alt=media&token=1c4ecbd3-8e15-45ac-a01b-689c34e41ec7'),
                 ),
               ),
               iconSize: 15,

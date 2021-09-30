@@ -43,7 +43,7 @@ class BrandsNavigationRail extends StatelessWidget {
                 ),
                 child: Hero(
                     tag: "${productAttributes.id}",
-                    child: Image.asset(productAttributes.image)),
+                    child: Image.network(productAttributes.image)),
               ),
             ),
             FittedBox(

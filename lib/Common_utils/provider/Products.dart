@@ -1,121 +1,41 @@
 import 'package:ECommerceApp/Models/feed.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 
 class ProductProvider with ChangeNotifier {
-  List<Product> _products = [
-    Product(
-      id: 1,
-      title: "Office Code",
-      price: 230,
-      size: 12,
-      description: dummyText,
-      image: "assets/assets_for_feed/images/Bags/Bag_1.png",
-      color: Color(0xFF3D82AE),
-      productCategoryName: "Bags",
-      quantity: 0,
-      isFavorite: false,
-      isPopular: false,
-      brand: "H&M",
-    ),
-    Product(
-      id: 2,
-      title: "Belt Bag",
-      price: 245,
-      size: 8,
-      description: dummyText,
-      image: "assets/assets_for_feed/images/Bags/Bag_2.png",
-      color: Colors.lightBlueAccent,
-      productCategoryName: "Bags",
-      quantity: 0,
-      isFavorite: false,
-      isPopular: false,
-      brand: "H&M",
-    ),
-    Product(
-      id: 3,
-      title: "Hang Top",
-      price: 278,
-      size: 10,
-      description: dummyText,
-      image: "assets/assets_for_feed/images/Bags/Bag_3.png",
-      color: Colors.brown.shade300,
-      productCategoryName: "Bags",
-      quantity: 0,
-      isFavorite: false,
-      isPopular: true,
-      brand: "H&M",
-    ),
-    Product(
-      id: 4,
-      title: "Old Fashion",
-      price: 260,
-      size: 11,
-      description: dummyText,
-      image: "assets/assets_for_feed/images/Bags/Bag_4.png",
-      color: Colors.indigo.shade900,
-      productCategoryName: "Bags",
-      quantity: 0,
-      isFavorite: false,
-      isPopular: true,
-      brand: "H&M",
-    ),
-    Product(
-      id: 5,
-      title: "Office Code",
-      price: 225,
-      size: 12,
-      description: dummyText,
-      image: "assets/assets_for_feed/images/Bags/Bag_5.png",
-      color: Color(0xFFFB7883),
-      productCategoryName: "Bags",
-      quantity: 0,
-      isFavorite: false,
-      isPopular: true,
-      brand: "H&M",
-    ),
-    Product(
-      id: 6,
-      title: "Office Code",
-      price: 250,
-      size: 12,
-      description: dummyText,
-      image: "assets/assets_for_feed/images/Bags/Bag_6.png",
-      color: Color(0xFFAEAEAE),
-      productCategoryName: "Bags",
-      quantity: 0,
-      isFavorite: false,
-      isPopular: true,
-      brand: "H&M",
-    ),
-    Product(
-      id: 7,
-      title: "Iphone 5",
-      price: 250,
-      size: 12,
-      description: dummyText,
-      image: "assets/assets_for_feed/images/Phones/Phone1.png",
-      color: Color(0xFFE040FB),
-      productCategoryName: "Phones",
-      quantity: 0,
-      isFavorite: false,
-      isPopular: true,
-      brand: "Apple",
-    ),
-    Product(
-      id: 8,
-      title: "Iphone X",
-      price: 250,
-      size: 12,
-      description: dummyText,
-      image: "assets/assets_for_feed/images/Phones/Phone2.png",
-      color: Color(0xff3d5a80),
-      productCategoryName: "Phones",
-      quantity: 0,
-      isFavorite: false,
-      isPopular: true,
-      brand: "Apple",
-    ),
-  ];
+  List<Product> _products = [];
+  Future<void> fetchProducts() async {
+    await FirebaseFirestore.instance
+        .collection('products')
+        .get()
+        .then((QuerySnapshot productSnapshot) {
+      _products = [];
+      productSnapshot.docs.forEach((element) {
+        _products.insert(
+          0,
+          Product(
+            id: element.get('productId'),
+            title: element.get('productTitle'),
+            price: double.parse(
+              element.get('price'),
+            ),
+            size: int.parse(element.get('productSize')),
+            description: element.get('productDescription'),
+            image: element.get('productImage'),
+            color: Color(int.parse(element.get('Color'))).withOpacity(1.0),
+            productCategoryName: element.get('productCategory'),
+            quantity: int.parse(
+              element.get('price'),
+            ),
+            isFavorite: false,
+            isPopular: true,
+            brand: element.get('productBrand'),
+          ),
+        );
+      });
+    });
+  }
+
   List<Product> get products {
     return [..._products];
   }

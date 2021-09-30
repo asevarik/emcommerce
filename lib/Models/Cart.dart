@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class Cart with ChangeNotifier {
   final String producttitle;
   final String id;
-  final int product_id;
+  final String product_id;
   final int quantity;
   final double price;
   final String imageUrl;

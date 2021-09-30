@@ -1,8 +1,9 @@
 import 'package:ECommerceApp/Common_utils/Consts/colors.dart';
 import 'package:ECommerceApp/Common_utils/provider/FavProvider.dart';
 import 'package:ECommerceApp/Common_utils/provider/cart_provider.dart';
-import 'package:ECommerceApp/screens/Wishlist.dart';
-import 'package:ECommerceApp/screens/cart.dart';
+import 'package:ECommerceApp/Models/user.dart';
+import 'package:ECommerceApp/screens/wishlist/Wishlist.dart';
+import 'package:ECommerceApp/screens/cart/cart.dart';
 import 'package:ECommerceApp/screens/user_info.dart';
 import 'package:badges/badges.dart';
 import 'package:flutter/material.dart';
@@ -74,8 +75,7 @@ class SearchByHeader extends SliverPersistentHeaderDelegate {
                     child: IconButton(
                       icon: Icon(Icons.favorite, color: ColorsConsts.favColor),
                       onPressed: () {
-                        Navigator.of(context)
-                            .pushNamed(WishListPage.RouteName);
+                        Navigator.of(context).pushNamed(WishListPage.RouteName);
                       },
                     ),
                   ),
@@ -124,9 +124,7 @@ class SearchByHeader extends SliverPersistentHeaderDelegate {
                   decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(10.0),
                       image: DecorationImage(
-                        image: NetworkImage(
-                          'https://cdn1.vectorstock.com/i/thumb-large/62/60/default-avatar-photo-placeholder-profile-image-vector-21666260.jpg',
-                        ),
+                        image: NetworkImage(UserData.photourl),
                         fit: BoxFit.cover,
                       )),
                 ),

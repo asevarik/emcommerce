@@ -8,8 +8,8 @@ import 'package:ECommerceApp/Common_utils/Widgets/DetailWidgets/cartcounterwithf
 import 'package:ECommerceApp/Common_utils/provider/FavProvider.dart';
 import 'package:ECommerceApp/Common_utils/provider/cart_provider.dart';
 import 'package:ECommerceApp/Models/feed.dart';
-import 'package:ECommerceApp/screens/Wishlist.dart';
-import 'package:ECommerceApp/screens/cart.dart';
+import 'package:ECommerceApp/screens/wishlist/Wishlist.dart';
+import 'package:ECommerceApp/screens/cart/cart.dart';
 import 'package:ECommerceApp/screens/search.dart';
 import 'package:badges/badges.dart';
 import 'package:flutter/material.dart';

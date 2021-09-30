@@ -6,7 +6,7 @@ import 'package:stacked_themes/stacked_themes.dart';
 import 'package:get/get.dart';
 
 class ThemeSelectorScreen extends StatelessWidget {
-  static final String screename = "/ThemeSelectionscreen";
+  static final String routeName = "/ThemeSelectionscreen";
   @override
   Widget build(BuildContext context) {
     DynamicColorChangerProvider dynamicTheme =

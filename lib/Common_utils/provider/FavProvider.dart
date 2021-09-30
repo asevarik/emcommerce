@@ -8,7 +8,7 @@ class FavProvider with ChangeNotifier {
   }
 
   void addAndRemoveFromFav(
-      int productId, double price, String title, String imageUrl) {
+      String productId, double price, String title, String imageUrl) {
     if (_favItems.containsKey(productId.toString())) {
       //TODO something in later
       removeItem(productId.toString());

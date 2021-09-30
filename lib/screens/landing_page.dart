@@ -1,5 +1,7 @@
-import 'package:ECommerceApp/Common_utils/Consts/Size_config.dart';
 import 'package:ECommerceApp/Common_utils/Consts/colors.dart';
+import 'package:ECommerceApp/Common_utils/Widgets/GlobalWidgets/alertDialog.dart';
+import 'package:ECommerceApp/Services/AuthController.dart';
+import 'package:ECommerceApp/Services/Database.dart';
 import 'package:ECommerceApp/screens/auth/Signup.dart';
 import 'package:ECommerceApp/screens/auth/login.dart';
 import 'package:ECommerceApp/screens/bottom_bar.dart';
@@ -17,13 +19,15 @@ class _LandingPageState extends State<LandingPage>
   List<String> images = [
     'https://thumbs.dreamstime.com/b/woman-wearing-medical-mask-holding-credit-card-shopping-mall-prevention-coronavirus-covid-pandemic-new-young-185983506.jpg',
     'https://image.freepik.com/free-photo/confident-trendy-woman-safety-medical-mask-with-shopping-bag-smart-phone-is-walking-mall_283617-1385.jpg',
-    'https://e-shopy.org/wp-content/uploads/2020/08/shop.jpeg',
     'https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6058a92bc29892b5278f5886%2FTwo-young-girl-friends-in-safety-medical-masks-during-shopping-in-the-mall%2F960x0.jpg%3Ffit%3Dscale',
     'https://insideretail.asia/wp-content/uploads/2020/09/Shopper-in-mall.jpg',
     'https://m.foolcdn.com/media/millionacres/original_images/family_mall_shopping.jpg?crop=4:3,smart',
   ];
   AnimationController _animationController;
   Animation<double> _animation;
+  AlertDialogCustom _alertbox = AlertDialogCustom();
+  final AuthController _authController = AuthController();
+  bool _isLoading = false;
   @override
   void initState() {
     super.initState();
@@ -49,8 +53,8 @@ class _LandingPageState extends State<LandingPage>
   @override
   void dispose() {
     // TODO: implement dispose
-    super.dispose();
     _animationController.dispose();
+    super.dispose();
   }
 
   @override
@@ -146,7 +150,7 @@ class _LandingPageState extends State<LandingPage>
                 Expanded(
                   child: ElevatedButton(
                       onPressed: () {
-                        Navigator.of(context).pushNamed(SignUpPage.routeName);
+                        Navigator.pushNamed(context, LoginPage.routeName);
                       },
                       style: ButtonStyle(
                           backgroundColor:
@@ -205,48 +209,68 @@ class _LandingPageState extends State<LandingPage>
                 ),
               ],
             ),
-            //TODO !delete that Sizedbox
             SizedBox(
               height: 30,
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
-                OutlinedButton(
-                    onPressed: () {},
-                    style: OutlinedButton.styleFrom(
-                      shape: StadiumBorder(),
-                      side: BorderSide(
-                        width: 2,
-                        color: Colors.red,
-                      ),
-                    ),
-                    child: Text(
-                      "Google +",
-                      style: Theme.of(context)
-                          .textTheme
-                          .headline5
-                          .copyWith(color: Colors.white),
-                    )),
-                OutlinedButton(
-                    onPressed: () {
-                      Navigator.of(context)
-                          .pushNamed(BottomBarScreen.screenname);
-                    },
-                    style: OutlinedButton.styleFrom(
-                      shape: StadiumBorder(),
-                      side: BorderSide(
-                        width: 2,
-                        color: Colors.deepPurple.shade200,
-                      ),
-                    ),
-                    child: Text(
-                      "Sign in as a Guest",
-                      style: Theme.of(context)
-                          .textTheme
-                          .headline5
-                          .copyWith(color: Colors.white),
-                    )),
+                _isLoading
+                    ? CircularProgressIndicator()
+                    : OutlinedButton(
+                        onPressed: () async {
+                          setState(() {
+                            _isLoading = true;
+                          });
+                          String res = await _authController.googleSignIn();
+                          if (res != 'true') {
+                            _alertbox.showDialogg(
+                                "Error Occured", res, context);
+                            print(_authController.getUser());
+                          } else {
+                            final user = _authController.getUser();
+                            await DataBaseServices().userRegistration(
+                                user.uid,
+                                user.displayName,
+                                user.photoURL,
+                                user.phoneNumber,
+                                user.email);
+                          }
+                        },
+                        style: OutlinedButton.styleFrom(
+                          shape: StadiumBorder(),
+                          side: BorderSide(
+                            width: 2,
+                            color: Colors.red,
+                          ),
+                        ),
+                        child: Text(
+                          "Google +",
+                          style: Theme.of(context)
+                              .textTheme
+                              .headline5
+                              .copyWith(color: Colors.white),
+                        )),
+                //TODO impliment Facebook if possible priority :-minimum
+                // OutlinedButton(
+                //     onPressed: () {
+                //       Navigator.of(context)
+                //           .pushNamed(BottomBarScreen.screenname);
+                //     },
+                //     style: OutlinedButton.styleFrom(
+                //       shape: StadiumBorder(),
+                //       side: BorderSide(
+                //         width: 2,
+                //         color: Colors.deepPurple.shade200,
+                //       ),
+                //     ),
+                //     child: Text(
+                //       "Sign in as a Guest",
+                //       style: Theme.of(context)
+                //           .textTheme
+                //           .headline5
+                //           .copyWith(color: Colors.white),
+                //     )),
               ],
             ),
             SizedBox(
