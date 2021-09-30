@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_card_unknown.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_card_unknown.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_add.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_add.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_card_amex.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_card_amex.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_card_mastercard.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_card_mastercard.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_card_discover.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_card_discover.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_card_dinersclub.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_card_dinersclub.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_card_visa.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_card_visa.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/ic_arrow.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/28d82deb96fe25a5e109e2136309e583/stripe-3ds2-android-5.3.1/res/drawable-night-v8/ic_arrow.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_cvc.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_cvc.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_card_jcb.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_card_jcb.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_googlepay_button_content.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/res/drawable-night-v8/stripe_googlepay_button_content.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_googlepay_button_overlay.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/res/drawable-night-v8/stripe_googlepay_button_overlay.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/drawable-night-v8/stripe_ic_paymentsheet_card_unionpay.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/res/drawable-night-v8/stripe_ic_paymentsheet_card_unionpay.xml"
+    }
+]

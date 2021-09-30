@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5ffb870ca9577acad6bd07426c5279ee/material-1.3.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/anim-v21/fragment_fast_out_extra_slow_in.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/fce78182428ffa6d3ce7400dec146c28/fragment-1.3.4/res/anim-v21/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5ffb870ca9577acad6bd07426c5279ee/material-1.3.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5ffb870ca9577acad6bd07426c5279ee/material-1.3.0/res/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5ffb870ca9577acad6bd07426c5279ee/material-1.3.0/res/anim-v21/mtrl_bottom_sheet_slide_in.xml"
+    }
+]

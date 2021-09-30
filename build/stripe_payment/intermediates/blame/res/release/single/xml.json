@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5ffb870ca9577acad6bd07426c5279ee/material-1.3.0/res/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/xml/standalone_badge.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5ffb870ca9577acad6bd07426c5279ee/material-1.3.0/res/xml/standalone_badge.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/xml/standalone_badge_gravity_top_start.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5ffb870ca9577acad6bd07426c5279ee/material-1.3.0/res/xml/standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/xml/image_share_filepaths.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/dbf23df749f4afea7e74e9bd298cf059/browser-1.3.0/res/xml/image_share_filepaths.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5ffb870ca9577acad6bd07426c5279ee/material-1.3.0/res/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/xml/standalone_badge_offset.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/5ffb870ca9577acad6bd07426c5279ee/material-1.3.0/res/xml/standalone_badge_offset.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/889b48116aa8b77e99ac239a5f489a20/core-1.5.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/889b48116aa8b77e99ac239a5f489a20/core-1.5.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/889b48116aa8b77e99ac239a5f489a20/core-1.5.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/889b48116aa8b77e99ac239a5f489a20/core-1.5.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

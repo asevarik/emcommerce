@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/drawable-night-v21/stripe_googlepay_button_background.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/res/drawable-night-v21/stripe_googlepay_button_background.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/stripe_payment/intermediates/res/merged/release/drawable-night-v21/stripe_googlepay_button_no_shadow_background.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/0e72d463fbaa0a954723aa340074d6ee/payments-core-16.10.0/res/drawable-night-v21/stripe_googlepay_button_no_shadow_background.xml"
+    }
+]
