@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/58bdd40eb298ab29d94f6e3ef9f21e27/play-services-auth-17.0.0/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/58bdd40eb298ab29d94f6e3ef9f21e27/play-services-auth-17.0.0/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/58bdd40eb298ab29d94f6e3ef9f21e27/play-services-auth-17.0.0/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

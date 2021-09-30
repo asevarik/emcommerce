@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1ca25845242cddb0e63221c2ad094241/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1ca25845242cddb0e63221c2ad094241/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/res/merged/release/drawable-xhdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6c77a3efaf0da99196d688815ca688da/play-services-base-17.0.0/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1ca25845242cddb0e63221c2ad094241/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/res/merged/release/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6c77a3efaf0da99196d688815ca688da/play-services-base-17.0.0/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/res/merged/release/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6c77a3efaf0da99196d688815ca688da/play-services-base-17.0.0/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/res/merged/release/drawable-xhdpi-v4/rzp_logo.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/b1b958a05765ac84250a8942a453ea7e/checkout-1.6.10/res/drawable-xhdpi-v4/rzp_logo.png"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1ca25845242cddb0e63221c2ad094241/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/res/merged/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/1ca25845242cddb0e63221c2ad094241/core-1.1.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/res/merged/release/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6c77a3efaf0da99196d688815ca688da/play-services-base-17.0.0/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/res/merged/release/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6c77a3efaf0da99196d688815ca688da/play-services-base-17.0.0/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/res/merged/release/drawable-xhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6c77a3efaf0da99196d688815ca688da/play-services-base-17.0.0/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/build/razorpay_flutter/intermediates/res/merged/release/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/Abhishek-Sevarik/.gradle/caches/transforms-2/files-2.1/6c77a3efaf0da99196d688815ca688da/play-services-base-17.0.0/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    }
+]

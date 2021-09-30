@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "08375b37203bfcefb232aea2e9010554"
+build_time: [1631610089, 308122000]
+inputs:
+  "/Users/Abhishek-Sevarik/Documents/Flutter Projects/Shop App/Udemy_Store_app_start/ios/Runner/AppDelegate.swift": [1627284783, 548673153]
